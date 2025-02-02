@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus_Task_5", "Otus_Task_5\Otus_Task_5.csproj", "{D2F6FD1F-9A0B-4292-85C2-F02170DDE45C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{0EF5E3B3-248D-458E-93EE-AD4089768167}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D2F6FD1F-9A0B-4292-85C2-F02170DDE45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2F6FD1F-9A0B-4292-85C2-F02170DDE45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2F6FD1F-9A0B-4292-85C2-F02170DDE45C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF5E3B3-248D-458E-93EE-AD4089768167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF5E3B3-248D-458E-93EE-AD4089768167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF5E3B3-248D-458E-93EE-AD4089768167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF5E3B3-248D-458E-93EE-AD4089768167}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
